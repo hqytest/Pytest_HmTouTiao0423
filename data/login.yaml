@@ -1,0 +1,9 @@
+#注意：
+# 1、mobile: 和code: 的冒号后要跟一个空格，否则pyyaml解析文件会把mobile和code解析为一个参数
+#  示例：
+#   yaml.safe_load(f).values()的解析结果为结果如下，
+#   最外层有一个单引号将mobile和code放一起了，不是预期的字典结构了：
+#   dict_values(['mobile:"12011111111" code:"246810"'])
+login001:
+  mobile: "12011111111"
+  code: "246810"

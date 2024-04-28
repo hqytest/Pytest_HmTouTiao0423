@@ -1,0 +1,14 @@
+#列表类型的数据
+#纯数字、纯字符串、布尔值、空值通常不需要引号，如果值包含特殊字符或空格，需要用引号（单引号或双引号）括起来。
+fruits:
+  - apple
+  - banana
+  - cherry
+  - 123
+  - 324
+  - true
+  - "true"
+  - "hello world"
+  - false
+  - "123-abc"
+  - null

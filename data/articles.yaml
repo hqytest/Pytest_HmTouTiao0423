@@ -1,0 +1,6 @@
+#channel暂时用不上，后续其他接口调用可以使用
+articles001:
+  title: hantest003
+  content: 发布文章接口测试
+  channel_id: 7
+  channel: 数据库
