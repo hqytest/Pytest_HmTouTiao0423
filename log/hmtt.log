@@ -1,0 +1,32 @@
+2024-04-28 10:53:09,023  INFO [api_TouTiao.py(__init__:20)]- 正在初始化登录url:http://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2024-04-28 10:53:09,023  INFO [api_TouTiao.py(__init__:23)]- 正在初始化发布文章url:http://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2024-04-28 10:53:09,024  INFO [api_TouTiao.py(api_login_post:34)]- 正在调用登录接口，请求数据为:{'mobile': '12011111111', 'code': '246810'}
+2024-04-28 10:53:09,181  INFO [tool.py(common_token:20)]- 正在提取token，提取后的headers为:{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU3MjIzODYsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.UoCyjkIRYUeGgKHgJeGSdfnkVP99PS1YBDU2XLzwlLM'}
+2024-04-28 10:53:09,182  INFO [tool.py(common_assert:28)]- 正在调用公共断言方法！
+2024-04-28 10:54:23,887  INFO [api_TouTiao.py(__init__:20)]- 正在初始化登录url:http://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2024-04-28 10:54:23,887  INFO [api_TouTiao.py(__init__:23)]- 正在初始化发布文章url:http://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2024-04-28 10:54:23,888  INFO [api_TouTiao.py(api_login_post:34)]- 正在调用登录接口，请求数据为:{'mobile': '12011111111', 'code': '246810'}
+2024-04-28 10:54:24,033  INFO [tool.py(common_token:20)]- 正在提取token，提取后的headers为:{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU3MjI0NjEsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.H6J2NiO-JlfAGmInHCAb2PItF7dGuHZnzB87uAn8BP4'}
+2024-04-28 10:54:24,033  INFO [tool.py(common_assert:28)]- 正在调用公共断言方法！
+2024-04-28 10:55:30,235  INFO [api_TouTiao.py(__init__:20)]- 正在初始化登录url:http://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2024-04-28 10:55:30,236  INFO [api_TouTiao.py(__init__:23)]- 正在初始化发布文章url:http://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2024-04-28 10:55:30,236  INFO [api_TouTiao.py(api_login_post:34)]- 正在调用登录接口，请求数据为:{'mobile': '12011111111', 'code': '246810'}
+2024-04-28 10:55:30,367  INFO [tool.py(common_token:20)]- 正在提取token，提取后的headers为:{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU3MjI1MjcsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.pZyeOE0jWIdvXvQFb7RdCIz86HyTpOjX_ESmVeBYHj8'}
+2024-04-28 10:55:30,367  INFO [tool.py(common_assert:28)]- 正在调用公共断言方法！
+2024-04-28 10:55:30,375  INFO [api_TouTiao.py(api_articles_post:50)]- 正在调用发布文章接口，请求数据为:{'title': 'hantest003', 'content': '发布文章接口测试', 'imgType': 'single', 'channel_id': 7, 'cover': {'type': 1, 'images': ['http://toutiao-img.itheima.net/FlroLEiqEi1nKPzWennulkyx3-th']}}
+2024-04-28 10:55:30,777  INFO [tool.py(common_assert:28)]- 正在调用公共断言方法！
+2024-04-28 10:56:32,515  INFO [api_TouTiao.py(__init__:20)]- 正在初始化登录url:http://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2024-04-28 10:56:32,515  INFO [api_TouTiao.py(__init__:23)]- 正在初始化发布文章url:http://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2024-04-28 10:56:32,516  INFO [api_TouTiao.py(api_login_post:34)]- 正在调用登录接口，请求数据为:{'mobile': '12011111111', 'code': '246810'}
+2024-04-28 10:56:32,654  INFO [tool.py(common_token:20)]- 正在提取token，提取后的headers为:{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU3MjI1OTAsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.wSIvR53mlkdJtNocQfXKtUB7ZUYt9qIu_vxJTHCeUjE'}
+2024-04-28 10:56:32,654  INFO [tool.py(common_assert:28)]- 正在调用公共断言方法！
+2024-04-28 10:56:32,658  INFO [api_TouTiao.py(api_articles_post:50)]- 正在调用发布文章接口，请求数据为:{'title': 'hantest003', 'content': '发布文章接口测试', 'imgType': 'single', 'channel_id': 7, 'cover': {'type': 1, 'images': ['http://toutiao-img.itheima.net/FlroLEiqEi1nKPzWennulkyx3-th']}}
+2024-04-28 10:56:32,779  INFO [tool.py(common_assert:28)]- 正在调用公共断言方法！
+2024-04-28 11:49:23,121  INFO [api_TouTiao.py(__init__:20)]- 正在初始化登录url:http://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2024-04-28 11:49:23,121  INFO [api_TouTiao.py(__init__:23)]- 正在初始化发布文章url:http://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2024-04-28 11:49:23,121  INFO [api_TouTiao.py(api_login_post:34)]- 正在调用登录接口，请求数据为:{'mobile': '12011111111', 'code': '246810'}
+2024-04-28 11:49:23,366  INFO [tool.py(common_token:20)]- 正在提取token，提取后的headers为:{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU3MjU3NjAsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.L8NbTy3rcfmbKudoJ_mLxRsjY97oSTTjk6ntFBMSvz8'}
+2024-04-28 11:49:23,366  INFO [tool.py(common_assert:28)]- 正在调用公共断言方法！
+2024-04-28 11:49:23,371  INFO [api_TouTiao.py(api_articles_post:50)]- 正在调用发布文章接口，请求数据为:{'title': 'hantest003', 'content': '发布文章接口测试', 'imgType': 'single', 'channel_id': 7, 'cover': {'type': 1, 'images': ['http://toutiao-img.itheima.net/FlroLEiqEi1nKPzWennulkyx3-th']}}
+2024-04-28 11:49:23,491  INFO [test_toutiao.py(test02_articels:70)]- 正在提取文章id,文章id为：1784429669693521920
+2024-04-28 11:49:23,491  INFO [tool.py(common_assert:28)]- 正在调用公共断言方法！
